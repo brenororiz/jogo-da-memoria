@@ -57,10 +57,6 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 
 5. Abra um Pull Request explicando suas mudanças.
 
-# 📜 Licença
-Este projeto está licenciado sob a MIT License . Veja o arquivo LICENSE para mais detalhes.
-
-
 # 🎮 Como Jogar
 ### Iniciar o Jogo :
 Ao acessar a página inicial, o tabuleiro será carregado automaticamente.
@@ -75,6 +71,9 @@ Quando todos os pares forem encontrados, aparecerá uma mensagem de vitória e a
 Após o jogo, clique em "Salvar Pontuação" para registrar sua pontuação.
 ### Ver Rankings :
 Acesse a página scores.php para ver as pontuações registradas.
+
+# 📜 Licença
+Este projeto está licenciado sob a MIT License . Veja o arquivo LICENSE para mais detalhes.
 
 # 👤 Autor
 Desenvolvido por Breno.  
