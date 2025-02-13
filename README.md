@@ -61,6 +61,21 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 Este projeto está licenciado sob a MIT License . Veja o arquivo LICENSE para mais detalhes.
 
 
+# 🎮 Como Jogar
+### Iniciar o Jogo :
+Ao acessar a página inicial, o tabuleiro será carregado automaticamente.
+### Virar Cartas :
+Clique em duas cartas para revelar seus valores.
+### Acertos e Erros :
+Se as cartas forem iguais, elas permanecem viradas com um sombreamento verde.  
+Se forem diferentes, elas voltam ao estado original após 1 segundo, com um sombreamento vermelho temporário.  
+### Finalizar o Jogo :
+Quando todos os pares forem encontrados, aparecerá uma mensagem de vitória e a opção de salvar sua pontuação.
+### Salvar Pontuação :
+Após o jogo, clique em "Salvar Pontuação" para registrar sua pontuação.
+### Ver Rankings :
+Acesse a página scores.php para ver as pontuações registradas.
+
 # 👤 Autor
 Desenvolvido por Breno.  
     GitHub: @brenororiz  
