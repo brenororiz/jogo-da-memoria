@@ -39,3 +39,34 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 └── scores.txt         # Arquivo para armazenar pontuações
 ```
 
+# 👥 Contribuição
+Contribuições são bem-vindas! Se você deseja contribuir para este projeto, siga os passos abaixo:  
+
+1. Faça um fork do repositório.  
+2. Crie uma nova branch:  
+
+        git checkout -b feature/nova-funcionalidade
+
+3. Faça suas alterações e commit:
+
+        git commit -m 'Adiciona nova funcionalidade'
+
+4. Envie as alterações para sua branch:
+
+        git push origin feature/nova-funcionalidade
+
+5. Abra um Pull Request explicando suas mudanças.
+
+# 📜 Licença
+Este projeto está licenciado sob a MIT License . Veja o arquivo LICENSE para mais detalhes.
+
+
+# 👤 Autor
+Desenvolvido por Breno.  
+    GitHub: @brenororiz  
+    LinkedIn: linkedin.com/in/breno-roriz-413312301  
+    Email: brenororiz@gmail.com 
+
+# 🙏 Agradecimentos
+Inspirado em jogos clássicos de memória.  
+Ícones e cores inspirados em designs modernos e minimalistas.  
