@@ -22,8 +22,8 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 ### Coloque os arquivos na pasta do servidor web (ex.: htdocs no XAMPP).
 
 ## Executar a Aplicação
-### nicie o servidor Apache e MySQL no XAMPP/WAMP.
-### Acesse a aplicação no navegador:
+1. Inicie o servidor Apache e MySQL no XAMPP/WAMP.
+2. Acesse a aplicação no navegador:
 
         http://localhost/jogo-da-memoria/
 
