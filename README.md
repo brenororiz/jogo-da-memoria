@@ -27,3 +27,15 @@ Navegador Web: Chrome, Firefox, Edge, etc.
 
         http://localhost/jogo-da-memoria/
 
+# 📂 Estrutura do Projeto
+```
+/memory-game/
+│
+├── index.php          # Página principal do jogo
+├── style.css          # Estilos CSS3
+├── script.js          # Lógica do jogo em JavaScript
+├── save_score.php     # Script PHP para salvar pontuação
+├── scores.php         # Página para exibir pontuações
+└── scores.txt         # Arquivo para armazenar pontuações
+```
+
